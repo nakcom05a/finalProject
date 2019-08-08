@@ -5,5 +5,7 @@
 <meta charset="UTF-8">
 </head>
 <body>
+	<jsp:include page="common/header.jsp"/>
+	<jsp:include page="common/footer.jsp"/>
 </body>
 </html>
