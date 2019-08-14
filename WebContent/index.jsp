@@ -7,6 +7,6 @@
 <title>프로젝트명</title>
 </head>
 <body>
-	<jsp:include page="views/main.jsp"/>asd
+	<jsp:include page="views/main.jsp"/>
 </body>
 </html>
